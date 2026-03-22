@@ -40,9 +40,11 @@ El sistema cumple con todos los requisitos obligatorios:
 Para abrir el editor de texto y probar sus funcionalidades visualmente, abre una terminal en el directorio del proyecto y ejecuta:
 ```bash
 python ui.py
+```
 
 ##2. Ejecutar las Pruebas Unitarias (Tests)
 Para comprobar la integridad de la estructura de datos y las validaciones de la lógica (9 pruebas en total), ejecuta:
 
-Bash
+```Bash
 python test_editor.py
+```
